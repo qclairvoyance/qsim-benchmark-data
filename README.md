@@ -1,12 +1,11 @@
 # CPU/GPU Quantum Simulator Benchmark: Experimental Dataset
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC--BY--4.0-lightgrey.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21189705.svg)](https://doi.org/10.5281/zenodo.21189705)
 
 This repository contains the complete experimental datasets accompanying the paper
 
 > **Application-Oriented Evaluation of CPU/GPU Quantum Simulators: From Canonical Quantum Circuits to Molecular Simulation**
->
-> *(Citation and DOI will be added after publication.)*
 
 The repository provides the raw benchmark outputs used to generate every figure, table, and statistical analysis presented in the manuscript.
 
@@ -105,11 +104,12 @@ See the `LICENSE` file for details.
 
 # Citation
 
-If you use this dataset in academic work, please cite both
+If you use this dataset in your research, please cite both the accompanying publication and this archived dataset.
 
-1. the accompanying research article, and
-2. this dataset.
+**Dataset DOI**
 
-The dataset DOI will be added once the Zenodo archive is published.
+https://doi.org/10.5281/zenodo.21189705
+
+GitHub provides a formatted citation via the **"Cite this repository"** button, while Zenodo provides BibTeX, RIS, and other citation formats.
 
 ---
