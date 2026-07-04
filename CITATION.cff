@@ -27,4 +27,4 @@ date-released: 2026-07-04
 repository-code: "https://github.com/qclairvoyance/qsim-benchmark-data"
 identifiers:
   - type: doi
-    value: "TBD"
+    value: "10.5281/zenodo.21189705"
