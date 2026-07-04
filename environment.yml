@@ -1,0 +1,45 @@
+name: qsim-benchmark
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyter=1.1.1
+  - numpy=1.26.4
+  - scipy=1.15.3
+  - pandas=2.2.3
+  - sympy=1.12.1
+  - symengine=0.13.0
+  - matplotlib=3.10.3
+  - seaborn=0.13.2
+  - networkx=3.4.2
+  - pyyaml=6.0.2
+  - pip
+  - pip:
+      # Quantum
+      - cudaq-solvers==0.4.0
+      - qiskit==1.4.2
+      - qiskit-nature==0.7.2
+      - qiskit-addon-sqd==0.10.0
+      - qiskit-aer==0.17.0
+      - pylatexenc==2.10
+      - ffsim==0.0.56
+      - tangelo-gc==0.4.3
+      - openfermion==1.7.1
+      - openfermionpyscf==0.5
+      - pyscf==2.10.0
+      - qutip==5.2.0
+      - PennyLane==0.42.0
+      # Compute
+      - jax==0.5.3
+      - joblib==1.5.1
+      - torch==2.11.0
+      # Monitoring / viz / utils
+      - pynvml==12.0.0
+      - py3Dmol==2.4.2
+      - plotly==6.1.1
+      - tabulate==0.9.0
+      # Testing / lint
+      - pytest==8.4.1
+      - pylint==3.1.0
+      - flake8==7.0.0
+      - black==24.3.0

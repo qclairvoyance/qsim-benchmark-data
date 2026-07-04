@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Dataset for CPU/GPU Quantum Simulator Benchmark — Experimental Data"
+message: "If you use this dataset, please cite it using the DOI provided."
+authors:
+  - family-names: "K S V"
+    given-names: "Anurag"
+    affiliation: "Qclairvoyance Quantum Labs Pvt. Ltd."
+  - family-names: "Patra"
+    given-names: "Ashish Kumar"
+    affiliation: "Qclairvoyance Quantum Labs Pvt. Ltd."
+  - family-names: "Navas"
+    given-names: "Afra"
+    affiliation: "Qclairvoyance Quantum Labs Pvt. Ltd."
+keywords:
+  - quantum computing
+  - quantum simulation
+  - quantum simulator
+  - benchmarking
+  - CUDA-Q
+  - Qiskit
+  - GPU computing
+  - CPU computing
+  - performance benchmarking
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: 2026-07-04
+repository-code: "https://github.com/qclairvoyance/qsim-benchmark-data"
+identifiers:
+  - type: doi
+    value: "TBD"
